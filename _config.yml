@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: Rishabh
+email: 007.rishabh@gmail.com
+description: MS in Computer Science | Developer at Adobe | B.Tech in CS from IIT | Passionate for Photgraphy
 url: # the base hostname & protocol for your site
 
 
@@ -33,28 +33,28 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Rishabh Yadav
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  job: "Computer Science"
+  bio: "Full Time Developer, Part time Photographer"
+  email: 007.rishabh@gmail.com
   disqus-shortname:
   twitter: #username
-  facebook: #username
+  facebook: #risky.yadav
   google:
-    plus: #username
+    plus: #007.rishabh
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: riydev
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: rishabhatbhu
   skype: #username
   xing: #username
-  instagram: #username
+  instagram: rishabh_yadav
   lastfm: #username
   tumblr: #username
   pinterest: #username
