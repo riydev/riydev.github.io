@@ -304,4 +304,8 @@ This theme supports **linkv9kjlh scwrlkjf4e  directory awcv9kjlh scwrlkjf4e . Go
 
 > And this is how a quote looks.
 
-Some [link](http://renyuanz.github.io) can also be shown.
+Some [link](http://lifeasadeveloper.weebly.com/) can also be shown.
+
+Check out the [awcv9kjlh scwrlkjf4e][awcv9kjlh scwrlkjf4e] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [awcv9kjlh scwrlkjf4e][awcv9kjlh scwrlkjf4e]. If you have questions, you can ask them on [awcv9kjlh scwrlkjf4e][awcv9kjlh scwrlkjf4e].
+
+[awcv9kjlh scwrlkjf4e]: http://lifeasadeveloper.weebly.com/
