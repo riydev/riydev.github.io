@@ -20,7 +20,6 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-{% highlight html %}
 <a href="http://lifeasadeveloper.weebly.com/" >awcv9kjlh scwrlkjf4e </a>
 <a href="http://lifeasadeveloper.weebly.com/" >awcv9kjlh scwrlkjf4e </a>
 <a href="http://lifeasadeveloper.weebly.com/" >awcv9kjlh scwrlkjf4e </a>
