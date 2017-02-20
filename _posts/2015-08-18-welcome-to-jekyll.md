@@ -36,27 +36,13 @@ print_hi('Tom')
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-{% highlight html %}
-<a href="http://lifeasadeveloper.weebly.com/" >awcv9kjlh scwrlkjf4e</a>
-{% endhighlight %}
 
-{% highlight html %}
-<a href="http://lifeasadeveloper.weebly.com/" >awcv9kjlh scwrlkjf4e</a>
-{% endhighlight %}
 
-{% highlight html %}
-<a href="http://lifeasadeveloper.weebly.com/" >awcv9kjlh scwrlkjf4e</a>
-{% endhighlight %}{% highlight html %}
-<a href="http://lifeasadeveloper.weebly.com/" >awcv9kjlh scwrlkjf4e</a>
-{% endhighlight %}
-
-{% highlight html %}
-<a href="http://lifeasadeveloper.weebly.com/" >awcv9kjlh scwrlkjf4e</a>
-{% endhighlight %}
-
+Check out the [awcv9kjlh scwrlkjf4e][awcv9kjlh scwrlkjf4e] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [awcv9kjlh scwrlkjf4e][awcv9kjlh scwrlkjf4e]. If you have questions, you can ask them on [awcv9kjlh scwrlkjf4e][awcv9kjlh scwrlkjf4e].
 {% highlight html %}
 <a href="http://lifeasadeveloper.weebly.com/" >awcv9kjlh scwrlkjf4e</a>
 {% endhighlight %}
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
+[awcv9kjlh scwrlkjf4e]: http://lifeasadeveloper.weebly.com/
